@@ -1,0 +1,35 @@
+_repo: Vixen-Volume-III._26238
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Braddon, M. E. (Mary Elizabeth)
+    aliases:
+    - Braddon, Mary Elizabeth
+    - Breddon, Miss
+    - Maxwell, Mary Elizabeth Braddon
+    - White, Babington
+    birthdate: 1835
+    deathdate: 1915
+    gutenberg_agent_id: '2957'
+    url: http://www.gutenberg.org/2009/agents/2957
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Elizabeth_Braddon
+description: ''
+gutenberg_issued: '2008-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26238'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction -- 19th century'
+- !lcsh 'Psychological fiction'
+- !lcc 'PR'
+- !lcsh 'Women -- England -- Fiction'
+- !lcsh 'Domestic fiction'
+title: Vixen, Volume III.
+url: http://www.gutenberg.org/ebooks/26238
